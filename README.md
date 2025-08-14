@@ -1,1 +1,1 @@
-# SplitBills
+Sql mini project
